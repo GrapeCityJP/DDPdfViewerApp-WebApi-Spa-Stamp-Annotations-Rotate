@@ -10,7 +10,6 @@ public class SupportApiController : GcPdfViewerController
 {
     public SupportApiController()
     {
-        // DioDocs for PDF 本体のライセンスキーを設定します
-        GcPdfDocument.SetLicenseKey("");
+        
     }
 }
